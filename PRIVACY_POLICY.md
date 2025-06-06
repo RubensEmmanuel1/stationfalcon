@@ -1,39 +1,32 @@
-Station FALCON! Bot Privacy Policy
-Last updated: [06/06/2025]
+# Station FALCON! — Privacy Policy
 
-1. Introduction
-This document explains how the Station FALCON! bot collects, uses, and protects user information.
+**Last updated:** June 6, 2025
 
-2. Information We Collect
-The bot may collect the following information:
+This Privacy Policy describes how data is handled when you use the Station FALCON! Discord bot ("the bot").
 
-Basic Discord identifiers (user ID, username, tag).
+## 1. Information We Collect  
+The bot may collect:
+- Basic user ID and server ID for functionality
+- Command usage data (e.g., which commands were used)
 
-Messages sent to the bot to execute commands.
+No personal or sensitive data is collected. The bot does not store messages, passwords, or IP addresses.
 
-Public data from servers where the bot is added (such as channel names, members).
+## 2. How We Use the Data  
+Data is used to:
+- Provide and improve bot features
+- Maintain bot stability and security
 
-3. How We Use Your Information
-The collected information is used to:
+## 3. Data Sharing  
+We do **not** share data with third parties.
 
-Process commands and respond to users.
+## 4. Data Retention  
+Data may be temporarily stored in memory for real-time features but is not permanently saved.
 
-Improve the bot's functionality.
+## 5. User Control  
+If you wish to stop data collection, you may remove the bot from your server.
 
-Monitor usage to detect errors and abuse.
+## 6. Changes to This Policy  
+We may update this policy. Continued use of the bot means you accept the latest version.
 
-4. Information Sharing
-The bot does not share your personal information with third parties.
-
-5. Security
-We use technical measures to protect collected data, but please note no system is 100% secure.
-
-6. User Rights
-You have the right to:
-
-Request deletion of your stored data.
-
-Request information about the data the bot holds about you.
-
-7. Contact
-For questions or requests, contact via Discord: https://discord.gg/AdsFrwyEH9
+## 7. Contact  
+For questions, contact the developer on Discord: https://discord.gg/AdsFrwyEH9
