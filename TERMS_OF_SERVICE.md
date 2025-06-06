@@ -3,7 +3,7 @@
 **Last updated:** June 6, 2025
 
 ## 1. Introduction  
-By using the **Station FALCON!** Discord bot ("the bot"), you agree to these Terms of Service. If you do not agree, please do not use the bot.
+By using the **Station FALCON! </>** Discord bot ("the bot"), you agree to these Terms of Service. If you do not agree, please do not use the bot.
 
 ## 2. Usage Guidelines  
 - The bot is provided as-is, with no guarantees of uptime or functionality.  
